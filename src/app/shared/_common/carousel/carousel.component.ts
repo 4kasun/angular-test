@@ -9,7 +9,7 @@ import { ContentService } from '../../_services/content.service';
 export class CarouselComponent {
   showNavigationArrows = true;
 	showNavigationIndicators = false;
-  // images = [946, 1011, 984].map((n) => `https://picsum.photos/id/${n}/1920/800`);
+  // images = [946, 1011, 984].map((n) => `https://picsum.photos/id/${n}/1920/750`);
 
   images: any;
 

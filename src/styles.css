@@ -9,7 +9,7 @@ body, html {
   ::-webkit-scrollbar {
     display: none;
   }
-
+  html, body {margin: 0; height: 100%; overflow: hidden}
 
   .route-fade {
     display: block;

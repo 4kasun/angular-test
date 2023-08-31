@@ -5,12 +5,14 @@ import { DiscoverMoreComponent } from './discover-more/discover-more.component';
 import { RouterModule } from '@angular/router';
 import { CarouselComponent } from '../shared/_common/carousel/carousel.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NavBarComponent } from '../shared/_common/nav-bar/nav-bar.component';
 
 @NgModule({
   declarations: [
     HomeComponent,
     DiscoverMoreComponent,
-    CarouselComponent
+    CarouselComponent,
+    NavBarComponent
   ],
   imports: [
     CommonModule,
