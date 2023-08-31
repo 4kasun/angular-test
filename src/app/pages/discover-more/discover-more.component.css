@@ -1,0 +1,6 @@
+.container-fluid {
+    height: 100%;
+    margin: 0;
+    padding: 10% 2% 10% 20%;
+    background-image: url("https://picsum.photos/1080/1080/?blur");
+}
